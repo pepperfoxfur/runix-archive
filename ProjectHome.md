@@ -1,0 +1,1 @@
+Backup of the old Runix archives. Runix was a work-in-progress uCLinux port to the Sony PlayStation done by a Russian company. It is long dead but still is still interesting for historical and research purposes.
